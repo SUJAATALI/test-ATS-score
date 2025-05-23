@@ -1,0 +1,150 @@
+[
+  {
+    "job_title": "Software Developer / Engineer",
+    "job_description": {
+      "overview": "Responsible for designing, developing, and maintaining software applications across the SDLC.",
+      "responsibilities": [
+        "Design and build software solutions using programming languages like Java, Python, or C++.",
+        "Write clean, efficient, and maintainable code.",
+        "Participate in debugging, testing, and troubleshooting software issues.",
+        "Work in Agile teams and take part in sprint planning and reviews."
+      ],
+      "skills_required": {
+        "technical_skills": [
+          "Java",
+          "Python",
+          "C++",
+          "Git",
+          "REST APIs",
+          "SQL"
+        ],
+        "soft_skills": [
+          "Problem-solving",
+          "Communication",
+          "Teamwork"
+        ]
+      },
+      "qualifications": [
+        "Bachelor\u2019s degree in Computer Science or related field.",
+        "Relevant certifications (e.g., Oracle Java) are a plus."
+      ]
+    }
+  },
+  {
+    "job_title": "Full Stack Developer",
+    "job_description": {
+      "overview": "Develops frontend and backend components of modern web applications.",
+      "responsibilities": [
+        "Build responsive UIs using React or Angular.",
+        "Design and develop APIs with Node.js or Django.",
+        "Implement authentication and database integrations.",
+        "Work on CI/CD and deployment automation."
+      ],
+      "skills_required": {
+        "technical_skills": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Docker",
+          "AWS",
+          "Express"
+        ],
+        "soft_skills": [
+          "Ownership",
+          "Communication",
+          "Collaboration"
+        ]
+      },
+      "qualifications": [
+        "B.Tech in Computer Science or equivalent experience in full-stack projects."
+      ]
+    }
+  },
+  {
+    "job_title": "Data Analyst",
+    "job_description": {
+      "overview": "Interprets data and transforms it into actionable insights for business decisions.",
+      "responsibilities": [
+        "Clean and preprocess data using Python or SQL.",
+        "Build dashboards with Power BI or Tableau.",
+        "Collaborate with business teams to define KPIs.",
+        "Run exploratory data analysis and generate reports."
+      ],
+      "skills_required": {
+        "technical_skills": [
+          "SQL",
+          "Excel",
+          "Python",
+          "Tableau",
+          "Power BI"
+        ],
+        "soft_skills": [
+          "Analytical mindset",
+          "Communication",
+          "Attention to detail"
+        ]
+      },
+      "qualifications": [
+        "Bachelor\u2019s in Data Science, Statistics, or related field."
+      ]
+    }
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "job_description": {
+      "overview": "Designs, develops, and deploys machine learning models and pipelines.",
+      "responsibilities": [
+        "Train and evaluate machine learning models.",
+        "Perform feature engineering and data preparation.",
+        "Deploy models to production using Docker or cloud services.",
+        "Work closely with software engineers and data scientists."
+      ],
+      "skills_required": {
+        "technical_skills": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "Pandas"
+        ],
+        "soft_skills": [
+          "Curiosity",
+          "Problem-solving",
+          "Teamwork"
+        ]
+      },
+      "qualifications": [
+        "Master\u2019s or Bachelor\u2019s in Computer Science or AI/ML specialization."
+      ]
+    }
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "job_description": {
+      "overview": "Automates development pipelines and manages scalable infrastructure deployments.",
+      "responsibilities": [
+        "Create and maintain CI/CD pipelines.",
+        "Automate infrastructure using Terraform or Ansible.",
+        "Monitor and troubleshoot production systems.",
+        "Collaborate with developers and IT operations teams."
+      ],
+      "skills_required": {
+        "technical_skills": [
+          "Docker",
+          "Kubernetes",
+          "Jenkins",
+          "Terraform",
+          "Linux"
+        ],
+        "soft_skills": [
+          "Reliability",
+          "Adaptability",
+          "Collaboration"
+        ]
+      },
+      "qualifications": [
+        "Bachelor\u2019s in IT or Computer Science, DevOps certifications preferred."
+      ]
+    }
+  }
+]
